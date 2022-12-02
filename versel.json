@@ -1,0 +1,14 @@
+{
+    "name": "backend5-main",
+    "version" : 2,
+    "public" : true,
+    "build" : {
+        "src" : "api/index.js",
+        "use": "@versel/node"
+    },
+    "routers":
+    {
+        "src": "/(.*)",
+        "dest": "api/index.js"
+    }
+}

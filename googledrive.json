@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "appjulia2022",
+  "private_key_id": "b60860226b5e29db16b4589ec1a52857eb552bf5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIVC1slVH8TzjL\nTSphjGEBxXxCPJgJhtipfY7UzSkb0cUo+Tq016CZPQGHjUcirihW9+gaExsNWc2G\nhfidXqRze/KCE/BebOFn0FdZUnRiGInaR+5N0ZuHzk6pA+CmWRF4k2ykeOH0atdD\npyqvbi7Ol9tPtZsrEbtob5LdMiMsg9NsichnQHc64lfnJgbT4jsS5+yJWWf2xcTC\n4avwSZspiMfVTaymtPHDxtqrTxsvvNRuEMobHTeKaqY/Bo3v2xwggHvaDXWxOvHl\nMd0vQ0ti/nrvj9+wbEeU3qPbxp1KC1bmyb2GfK9VZj32FFNonms0KQt57/oiFPXP\nCJfooJcrAgMBAAECggEAWz3n0Ih0JoiItCQp1PNErbNehKanktM9tHjRCMCG5DpX\nY/GcGQkLBzB/lVc2GqgbDH1uVA32qM6Jqycy1K5qFYVTL4bYWJGb2pZMao0BIDrP\n8sEHW59ICQNg1V9EP0/bAsGW3pSGSbYt5IzrhqqXHBaTV4s+KNAzPP5wdFnlJlz4\nGzERmJPeDYcaMOGpW5x0Dc/+RQSrI+G/VdClTNwbyYfXTGZvBqSLk1un7Je/LBs8\nRBYtrX4XoV1mCeINukIBtWhhmsxnZ7QX/o2N/xgs+62sx8BaolSkLdMKTZObMjXr\nlQ3pTF1dIdBKLm8WWY4i+65dggS0de88lLxdkRpzwQKBgQDpFnmzR0FmihE/2rC/\n0/C90RuK+AogyJxbwpu452HhZVeoYcqfR4fr28H1eFxLUy9RFanPHxtzur+gy5Ox\nwPAGpFxrU6OS0YLAQJQdHRbx5lNMmUUqjy7qTPRaV+70a5TFXjVsww+BHiSbK8j3\n8PzThSYgzeb9pO+qhhRS6VXwQQKBgQDcBVc0K46+ag98LYM97HSFkcxYmu/qib7Q\nEAhPYXPbmDldv3DS5cOYqD9kaPX+7PFoRFnpfLbah8SVfiazeipOCcUkLR3TNmnj\n28ZOtRjKXsmLw6bwTQPuxlvc33xiJ3obptUfvir0NC60ITNZgaK6gm7K9A66dDhk\nvE1nweosawKBgQDVwfzeAuzhYqErFB2f7ngLO+esbIitRAzQwgoZamkDUfMvwm8V\n332xOZoIydaqZaExFVLjVb3RRmRSzB+oli4JiVYQP2X1URo9wXuTr4fJU9b0mmMq\nAqGd0fENoTLNCJQo5JrOIZzoZoJfo6nsaB8UxDkRQIMj/cylb8zXtJFRgQKBgQDI\nQ4QwVEVFRDx8BuEiiAs3WJHrRHuDu4UW1MD7n/RYuKHeltYW4FO8q8enmXHva7P/\n99bvEzlMh6+DcqO/UT8YcQQj/XzcNvcDE5PZKDU8XjKNKLTWnQMrXxlWXYVVwiD+\n8kei8PEf/i9UfbPDkJ+RrA80ZBjT1d1Os6aw/mwrqQKBgQC4nL6pJnCpt0fQaZW2\nnn9rDn5Kgw8jkVwssTEecU+zibgUOXtMF47zTN67Xd1VhkatVgqiAGNl/9zuy5Em\nA2uHkUx3b4o0V7qhX2+/2gle428Xw5oTCaglo+7Q+0+y5cebdrYC1a5DhpAg3jFj\n8l6V2tfpOYqIwC0O8lhLioV8iA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledrive@appjulia2022.iam.gserviceaccount.com",
+  "client_id": "112736211752597736944",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledrive%40appjulia2022.iam.gserviceaccount.com"
+}
